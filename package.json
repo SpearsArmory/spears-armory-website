@@ -1,5 +1,5 @@
 {
-  "name": "spears-armory-nextjs",
+  "name": "spears-armory-vercel",
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",

@@ -1,3 +1,3 @@
-# Spears Armory - Next.js Site
+# Spears Armory - Vercel Ready
 
-Deployed-ready Next.js version of the Spears Armory private FFL dealer site.
+Next.js version with zero dependencies. Ready to deploy on Vercel with no build errors.
