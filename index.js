@@ -1,1 +1,2 @@
-export { default } from '../SpearsArmory';
+import SpearsArmory from '../SpearsArmory';
+export default SpearsArmory;

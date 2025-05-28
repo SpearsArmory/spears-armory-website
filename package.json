@@ -1,5 +1,5 @@
 {
-  "name": "spears-armory-site",
+  "name": "spears-armory-nextjs",
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
