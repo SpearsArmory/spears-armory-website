@@ -1,3 +1,2 @@
-# Spears Armory - Vercel Ready
-
-Next.js version with zero dependencies. Ready to deploy on Vercel with no build errors.
+# Spears Armory Vercel Deployment
+This is the corrected and Vercel-ready Next.js app with the required `pages/` directory in place.
